@@ -1,10 +1,10 @@
 # 🏊 Piscine 42 Lisboa
 
-Repositório dedicado aos projetos, exercícios e aprendizados desenvolvidos durante a experiência na Piscine da 42 Lisboa.
+Repositório dedicado aos projetos, exercícios e aprendizados desenvolvidos durante a experiência na Piscine da 42 Lisboa, considerada a melhor escola de programação do mundo.
 
 ## 🚀 Sobre a experiência
 
-A Piscine é o processo intensivo de seleção e aprendizagem da escola 42, considerada a melhor escola de programação do mundo. Ela é focada em desenvolvimento de software, resolução de problemas e aprendizado colaborativo.
+A Piscine é o processo intensivo de seleção e aprendizagem da escola 42. Ela é focada em desenvolvimento de software, resolução de problemas e aprendizado colaborativo.
 
 Durante esse período, trabalhei em desafios práticos de programação com foco em:
 
