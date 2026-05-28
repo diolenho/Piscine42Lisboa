@@ -64,4 +64,4 @@ A 42 é uma rede internacional de escolas de programação conhecida pelo modelo
 ## 📬 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/diogopalmeida/  
-- 🌐 Portfólio: https://chipped-leotard-652.notion.site/Diogo-Almeida-Product-Manager-31d2da75adeb80368a1aecb43415ad59  
+- 🌐 Portfólio: https://www.notion.so/Diogo-Almeida-Product-Manager-31d2da75adeb80368a1aecb43415ad59
